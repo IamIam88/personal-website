@@ -1,0 +1,142 @@
+body {
+  background-color: coral;
+}
+
+h1 {
+  color: aliceblue;
+  font-family: sans-serif;
+  font-size: 75px;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  color:aliceblue;
+  font-size: 25px;
+}
+
+main {
+  background-color: cadetblue;
+  text-align: center;
+  padding-top:75px;
+  padding-bottom:75px;
+  margin-top: 10px;
+}
+
+.links {
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+  text-align: center;
+}
+
+a:hover {
+  color:cadetblue;
+}
+
+.link {
+  color:aliceblue;
+}
+
+.active {
+  color:aliceblue;
+}
+
+.video-games {
+  height: 500px;
+  width: 750px;
+  padding-right: 100px;
+  display: inline-block;
+  margin-left: -250px;
+}
+
+.lorem-ipsum1 {
+  display: inline-block;
+  height: 50px;
+  width: 400px;
+  vertical-align: top;
+  padding-top: 100px;
+  color: aliceblue;
+}
+
+.nature {
+  height: 1000px;
+  width: 750px;
+  padding-left: 100px;
+  display: inline-block;
+  margin-right: -250px;
+}
+
+.nature-pic {
+  height: 1000px;
+  width: 750px;
+}
+
+.lorem-ipsum2 {
+  display: inline-block;
+  height: 50px;
+  width: 400px;
+  vertical-align: top;
+  padding-top: 250px;
+  color: aliceblue;
+}
+
+.health-and-well-being {
+  height: 500px;
+  width: 750px;
+  padding-right: 100px;
+  display: inline-block;
+  margin-left: -250px;
+}
+
+.lorem-ipsum3 {
+  display: inline-block;
+  height: 50px;
+  width: 400px;
+  vertical-align: top;
+  padding-top: 100px;
+  color: aliceblue;
+}
+
+.the-animals {
+  height: 500px;
+  width: 750px;
+  display: inline-block;
+}
+
+.the-animals-pic {
+  height: 500px;
+  width: 750px;
+  padding-left: 100px;
+  margin-right: -250px;
+}
+
+.grocery-list {
+  height: 500px;
+  width: 750px;
+  padding-right: 100px;
+  display: inline-block;
+  margin-left: -250px;
+}
+
+.grocery-list-pic {
+  height: 500px;
+  width: 750px;
+}
+
+.movie-list {
+  height: 500px;
+  width: 750px;
+  display: inline-block;
+}
+
+.movie-list-pic {
+  height: 500px;
+  width: 750px;
+  padding-left: 100px;
+  margin-right: -250px;
+}
+
+.wonder {
+  height: 850px;
+}
